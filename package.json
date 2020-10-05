@@ -1,6 +1,6 @@
 {
-  "name": "my-app",
-  "version": "0.1.0",
+  "name": "goit-markup-react-8-phonebook",
+  "version": "0.2.0",
   "private": true,
   "homepage": "https://Springfields1996.github.io/goit-markup-react-8-phonebook",
   "dependencies": {
